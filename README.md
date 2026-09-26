@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/navodyamethmali/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
